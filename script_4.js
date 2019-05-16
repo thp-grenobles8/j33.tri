@@ -28,7 +28,6 @@ for(let index in entrepreneurs) {
   } 
 }
 
-
 // Question 2
 
 array = []

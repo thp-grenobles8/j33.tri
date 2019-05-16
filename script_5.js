@@ -14,15 +14,6 @@ const books = [
   { title: 'Guerre et Paix', id: 748147, rented: 19 }
 ];
 
-
-
-
-  /*  
-
-
-    Trie les livres par ordre alphabétique.
-*/
-
 // Question 1
 
 books.forEach(element => {
